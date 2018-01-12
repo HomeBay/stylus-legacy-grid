@@ -1,9 +1,9 @@
 {
   "name": "stylus-legacy-grid",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "license": "UNLICENSED",
-  "description": "Legacy Stylus grid system based on Jeet, rewritten to avoid mixin naming conflicts.",
+  "description": "Legacy Stylus grid system based on Jeet and Rupture, refactored to avoid naming conflicts.",
   "homepage": "https://github.com/HomeBay/stylus-legacy-grid",
   "repository": "git://github.com/HomeBay/stylus-legacy-grid.git"
 }
